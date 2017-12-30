@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background: #706767;
+  color: #fff;
+  text-align: center; }
+
+header {
+  background: #ef3737;
+  color: #5dff00;
+  padding: 15px; }
+
+section {
+  margin: 0 auto; }
+
+.container {
+  widht: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-size: 18px; }
+
+/*# sourceMappingURL=output.css.map */
