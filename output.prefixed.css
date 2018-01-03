@@ -17,6 +17,8 @@ section {
   max-width: 1200px;
   margin: 0 auto;
   font-size: 18px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex; }
 
-/*# sourceMappingURL=output.css.map */
+/*# sourceMappingURL=output.prefixed.css.map */

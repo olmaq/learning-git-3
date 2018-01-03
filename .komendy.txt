@@ -1,0 +1,5 @@
+autoprefixer-cli -o style.prefixed.css style.css
+
+nu-html-checker batch.on('end', function (err) {
+  if (err) console.error(err.stack);
+})

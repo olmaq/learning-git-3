@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/olmaq/learning-git-3#readme",
   "dependencies": {
-    "browser-sync": "^2.23.2"
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.23.2",
+    "nu-html-checker": "^0.1.0"
   }
 }
