@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/olmaq/learning-git-3/issues"
   },
-  "homepage": "https://github.com/olmaq/learning-git-3#readme"
+  "homepage": "https://github.com/olmaq/learning-git-3#readme",
+  "dependencies": {
+    "browser-sync": "^2.23.2"
+  }
 }
